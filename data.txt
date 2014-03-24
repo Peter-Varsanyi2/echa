@@ -1,0 +1,207 @@
+round 1
+round 2
+player1 place_armies 1 5
+player1 illegal_move  place-armies no armies left to place
+player1 illegal_move  place-armies no armies left to place
+player2 place_armies 25 5
+player2 illegal_move  place-armies no armies left to place
+player2 illegal_move  place-armies no armies left to place
+round 3
+round 4
+player1 place_armies 1 5
+player1 illegal_move  place-armies no armies left to place
+player1 illegal_move  place-armies no armies left to place
+player2 place_armies 25 5
+player2 illegal_move  place-armies no armies left to place
+player2 illegal_move  place-armies no armies left to place
+round 5
+player1 place_armies 1 5
+player1 illegal_move  place-armies no armies left to place
+player1 illegal_move  place-armies no armies left to place
+player2 place_armies 25 5
+player2 illegal_move  place-armies no armies left to place
+player2 illegal_move  place-armies no armies left to place
+round 6
+round 7
+player1 place_armies 1 5
+player1 illegal_move  place-armies no armies left to place
+player1 illegal_move  place-armies no armies left to place
+player2 place_armies 25 5
+player2 illegal_move  place-armies no armies left to place
+player2 illegal_move  place-armies no armies left to place
+round 8
+player1 place_armies 1 5
+player1 illegal_move  place-armies no armies left to place
+player1 illegal_move  place-armies no armies left to place
+player2 place_armies 25 5
+player2 illegal_move  place-armies no armies left to place
+player2 illegal_move  place-armies no armies left to place
+round 9
+round 10
+player1 place_armies 1 5
+player1 illegal_move  place-armies no armies left to place
+player1 illegal_move  place-armies no armies left to place
+player2 place_armies 25 5
+player2 illegal_move  place-armies no armies left to place
+player2 illegal_move  place-armies no armies left to place
+round 11
+player1 place_armies 1 5
+player1 illegal_move  place-armies no armies left to place
+player1 illegal_move  place-armies no armies left to place
+player2 place_armies 25 5
+player2 illegal_move  place-armies no armies left to place
+player2 illegal_move  place-armies no armies left to place
+round 12
+round 13
+player1 place_armies 1 5
+player1 illegal_move  place-armies no armies left to place
+player1 illegal_move  place-armies no armies left to place
+player2 place_armies 25 5
+player2 illegal_move  place-armies no armies left to place
+player2 illegal_move  place-armies no armies left to place
+round 14
+player1 place_armies 1 5
+player1 illegal_move  place-armies no armies left to place
+player1 illegal_move  place-armies no armies left to place
+player2 place_armies 25 5
+player2 illegal_move  place-armies no armies left to place
+player2 illegal_move  place-armies no armies left to place
+round 15
+round 16
+player1 place_armies 1 5
+player1 illegal_move  place-armies no armies left to place
+player1 illegal_move  place-armies no armies left to place
+player2 place_armies 25 5
+player2 illegal_move  place-armies no armies left to place
+player2 illegal_move  place-armies no armies left to place
+round 17
+player1 place_armies 1 5
+player1 illegal_move  place-armies no armies left to place
+player1 illegal_move  place-armies no armies left to place
+player2 place_armies 25 5
+player2 illegal_move  place-armies no armies left to place
+player2 illegal_move  place-armies no armies left to place
+round 18
+round 19
+player1 place_armies 1 5
+player1 illegal_move  place-armies no armies left to place
+player1 illegal_move  place-armies no armies left to place
+player2 place_armies 25 5
+player2 illegal_move  place-armies no armies left to place
+player2 illegal_move  place-armies no armies left to place
+round 20
+player1 place_armies 1 5
+player1 illegal_move  place-armies no armies left to place
+player1 illegal_move  place-armies no armies left to place
+player2 place_armies 25 5
+player2 illegal_move  place-armies no armies left to place
+player2 illegal_move  place-armies no armies left to place
+round 21
+round 22
+player1 place_armies 1 5
+player1 illegal_move  place-armies no armies left to place
+player1 illegal_move  place-armies no armies left to place
+player2 place_armies 25 5
+player2 illegal_move  place-armies no armies left to place
+player2 illegal_move  place-armies no armies left to place
+round 23
+player1 place_armies 1 5
+player1 illegal_move  place-armies no armies left to place
+player1 illegal_move  place-armies no armies left to place
+player2 place_armies 25 5
+player2 illegal_move  place-armies no armies left to place
+player2 illegal_move  place-armies no armies left to place
+round 24
+round 25
+player1 place_armies 1 5
+player1 illegal_move  place-armies no armies left to place
+player1 illegal_move  place-armies no armies left to place
+player2 place_armies 25 5
+player2 illegal_move  place-armies no armies left to place
+player2 illegal_move  place-armies no armies left to place
+round 26
+player1 place_armies 1 5
+player1 illegal_move  place-armies no armies left to place
+player1 illegal_move  place-armies no armies left to place
+player2 place_armies 25 5
+player2 illegal_move  place-armies no armies left to place
+player2 illegal_move  place-armies no armies left to place
+round 27
+round 28
+player1 place_armies 1 5
+player1 illegal_move  place-armies no armies left to place
+player1 illegal_move  place-armies no armies left to place
+player2 place_armies 25 5
+player2 illegal_move  place-armies no armies left to place
+player2 illegal_move  place-armies no armies left to place
+round 29
+player1 place_armies 1 5
+player1 illegal_move  place-armies no armies left to place
+player1 illegal_move  place-armies no armies left to place
+player2 place_armies 25 5
+player2 illegal_move  place-armies no armies left to place
+player2 illegal_move  place-armies no armies left to place
+round 30
+round 31
+player1 place_armies 1 5
+player1 illegal_move  place-armies no armies left to place
+player1 illegal_move  place-armies no armies left to place
+player2 place_armies 25 5
+player2 illegal_move  place-armies no armies left to place
+player2 illegal_move  place-armies no armies left to place
+round 32
+player1 place_armies 1 5
+player1 illegal_move  place-armies no armies left to place
+player1 illegal_move  place-armies no armies left to place
+player2 place_armies 25 5
+player2 illegal_move  place-armies no armies left to place
+player2 illegal_move  place-armies no armies left to place
+round 33
+round 34
+player1 place_armies 1 5
+player1 illegal_move  place-armies no armies left to place
+player1 illegal_move  place-armies no armies left to place
+player2 place_armies 25 5
+player2 illegal_move  place-armies no armies left to place
+player2 illegal_move  place-armies no armies left to place
+round 35
+player1 place_armies 1 5
+player1 illegal_move  place-armies no armies left to place
+player1 illegal_move  place-armies no armies left to place
+player2 place_armies 25 5
+player2 illegal_move  place-armies no armies left to place
+player2 illegal_move  place-armies no armies left to place
+round 36
+round 37
+player1 place_armies 1 5
+player1 illegal_move  place-armies no armies left to place
+player1 illegal_move  place-armies no armies left to place
+player2 place_armies 25 5
+player2 illegal_move  place-armies no armies left to place
+player2 illegal_move  place-armies no armies left to place
+round 38
+player1 place_armies 1 5
+player1 illegal_move  place-armies no armies left to place
+player1 illegal_move  place-armies no armies left to place
+player2 place_armies 25 5
+player2 illegal_move  place-armies no armies left to place
+player2 illegal_move  place-armies no armies left to place
+round 39
+round 40
+player1 place_armies 1 5
+player1 illegal_move  place-armies no armies left to place
+player1 illegal_move  place-armies no armies left to place
+player2 place_armies 25 5
+player2 illegal_move  place-armies no armies left to place
+player2 illegal_move  place-armies no armies left to place
+round 41
+player1 place_armies 1 5
+player1 illegal_move  place-armies no armies left to place
+player1 illegal_move  place-armies no armies left to place
+player2 place_armies 25 5
+player2 illegal_move  place-armies no armies left to place
+player2 illegal_move  place-armies no armies left to place
+round 42
+round 43
+player1 place_armies 1 5
+player1 illegal_move  place-armies no ar
